@@ -1,3 +1,5 @@
-# interactive_screen
+interactive_screen
+------------------
 
-This my first commit
+This is a basic application based on angus.ai perception API,
+made during a week long internship.
